@@ -21,7 +21,9 @@ Any Phison E18 B47R Drive.¹ Includes:
 
 Kingston fury renegade/kc3000
 
-Corsair MP600 Core XT
+Corsair MP600 Pro
+
+Corsair MP600 Pro NH (E18 B47R)
 
 MSI Spatium M480 Play/Pro
 
