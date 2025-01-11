@@ -32,5 +32,18 @@ Netac NV7000 *
 
 Aorus 7000s/Premium *
 
+A 
+
+Any MAP1602 EE1TA/BiCS6 Drive. Includes:
+
+Acer Predator GM7 *
+
+Patriot Viper VP4300L 1/2TB 
+
+Teamgroup MP44 *
+
+Silicon Power US75 Black PCB
+
+Orico O7000 *
 
 Work in Progress - Updating Daily 
