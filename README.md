@@ -21,9 +21,13 @@ WD Black Sn580x
 Any Phison E18 B47R Drive.¹ Includes:
 
 Kingston fury renegade/kc3000
+
 Corsair MP600 Core XT
+
 MSI Spatium M480 Play/Pro
+
 Netac NV7000 *
+
 Aorus 7000s/Premium *
 
 
