@@ -37,7 +37,7 @@ Includes:
 
 Acer Predator GM7 (MAP1602 EE1TA)
 
-Patriot Viper VP4300L 1/2TB 
+Patriot Viper VP4300L 1/2TB (All Variants)
 
 Teamgroup MP44 (All Variants)
 
