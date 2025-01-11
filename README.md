@@ -1,10 +1,12 @@
 SSD tier list
+
 V1.0 by flow
+
 SSDs are ranked from top to bottom. Get the best that fits in your budget. Be aware that SSDs don't matter a lot in basic tasks like gaming.
 
 This list does not include PCIE5 or SATA drives, due to them being overpriced/outdated.
 
-* indicates multiple hardware revisions
+*indicates multiple hardware revisions
 
 A+
 
@@ -16,7 +18,7 @@ Crucial T500
 
 Samsung 990 Pro
 
-WD Black Sn580x
+WD Black Sn850x
 
 Any Phison E18 B47R Drive.¹ Includes:
 
