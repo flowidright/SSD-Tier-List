@@ -7,6 +7,7 @@ This list does not include PCIE5 or SATA drives, due to them being overpriced/ou
 * indicates multiple hardware revisions
 
 A+
+
 Solidgm p44 pro
 SK Hynix P41 Platinum
 Crucial T500
