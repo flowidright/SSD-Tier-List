@@ -40,8 +40,18 @@ Patriot Viper VP4300L 1/2TB
 
 Teamgroup MP44 *
 
+Teamgroup MP44L *
+
 Silicon Power US75 Black PCB
 
 Orico O7000 *
+
+Netac NV7000-t
+
+Kingbank xg7000 *
+
+Lexar NM790
+
+Fanxiang S880
 
 Work in Progress - Updating Daily 
