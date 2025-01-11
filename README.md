@@ -1,6 +1,4 @@
-SSD tier list
-
-V1.0 by flow
+Compiled on 11/01/25
 
 SSDs are ranked from top to bottom. Get the best that fits in your budget. Be aware that SSDs don't matter a lot in basic tasks like gaming.
 
