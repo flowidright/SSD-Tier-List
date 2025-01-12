@@ -34,7 +34,7 @@ Aorus 7000s/Premium * (E18 B47R)
 
 **A Tier**
 
-Any MAP1602/E27T EE1TA/BiCS6 Drive.
+Any MAP1602/E27T EE1TA/BiCS6/Hynix V7 Drive.
 
 Includes:
 
@@ -57,6 +57,8 @@ Kingbank xg7000 * (MAP1602 EE1TA)
 Lexar NM790
 
 Fanxiang S880
+
+Patriot P400 Lite * (MAP1602 Hynix V7)
 
 ¹ E18 Drives have had hardware issues. Some drives have firmware updates, most don't. Beware when considering one.
 
