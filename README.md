@@ -58,6 +58,6 @@ Lexar NM790
 
 Fanxiang S880
 
-¹ E18 Drives have had rainier issues. Some drives have firmware updates, most don't. Beware when considering one.
+¹ E18 Drives have had hardware issues. Some drives have firmware updates, most don't. Beware when considering one.
 
 Work in Progress - Updating Daily 
