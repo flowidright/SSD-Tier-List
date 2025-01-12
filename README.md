@@ -60,6 +60,14 @@ Fanxiang S880
 
 Patriot P400 Lite * (MAP1602 Hynix V7)
 
+**A- Tier**
+
+Any MAP1602 CD2TA Drive.
+
+Includes:
+
+Teamgroup MP44L * (MAP1602 CD2TA)
+
 ¹ E18 Drives have had hardware issues. Some drives have firmware updates, most don't. Beware when considering one.
 
 Work in Progress - Updating Daily 
