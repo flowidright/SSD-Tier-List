@@ -14,7 +14,7 @@ SK Hynix P41 Platinum
 
 Crucial T500
 
-Samsung 990 Pro
+Samsung 990 Pro/PM9F1
 
 WD Black Sn850x
 
