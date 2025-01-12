@@ -4,6 +4,7 @@ SSDs are ranked from top to bottom. Get the best that fits in your budget. Be aw
 
 This list does not include PCIE5 or SATA drives, due to them being overpriced/outdated.
 
+*Indicates Multiple Configs 
 
 A+ Tier
 
@@ -21,15 +22,15 @@ Any Phison E18 B47R Drive.¹ Includes:
 
 Kingston fury renegade/kc3000
 
-Corsair MP600 Pro
+Corsair MP600 Pro XT
 
-Corsair MP600 Pro NH (E18 B47R)
+Corsair MP600 Pro NH * (E18 B47R)
 
 MSI Spatium M480 Play/Pro
 
-Netac NV7000 (E18 B47R)
+Netac NV7000 * (E18 B47R)
 
-Aorus 7000s/Premium (E18 B47R)
+Aorus 7000s/Premium * (E18 B47R)
 
 A Tier
 
@@ -37,21 +38,21 @@ Any MAP1602/E27T EE1TA/BiCS6 Drive.
 
 Includes:
 
-Acer Predator GM7 (MAP1602 EE1TA)
+Acer Predator GM7 * (MAP1602 EE1TA)
 
 Patriot Viper VP4300L 1/2TB (All Variants)
 
-Teamgroup MP44 (All Variants)
+Teamgroup MP44 * (All Variants)
 
-Teamgroup MP44L (MAP1602 BiCS6)
+Teamgroup MP44L * (MAP1602 BiCS6)
 
 Silicon Power US75 Black PCB
 
-Orico O7000 (MAP1602 EE1TA)
+Orico O7000 * (MAP1602 EE1TA)
 
 Netac NV7000-t
 
-Kingbank xg7000 (MAP1602 EE1TA)
+Kingbank xg7000 * (MAP1602 EE1TA)
 
 Lexar NM790
 
