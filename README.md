@@ -2,11 +2,11 @@ Compiled on 11/01/25
 
 SSDs are ranked from top to bottom. Get the best that fits in your budget. Be aware that SSDs don't matter a lot in basic tasks like gaming.
 
-This list does not include PCIE5 or SATA drives, due to them being overpriced/outdated.
+**This list does not include PCIE5 or SATA drives, due to them being unneeded/outdated.**
 
-*Indicates Multiple Configs 
+***Indicates Multiple Configs**
 
-A+ Tier
+**A+ Tier**
 
 Solidgm p44 pro
 
@@ -32,9 +32,9 @@ Netac NV7000 * (E18 B47R)
 
 Aorus 7000s/Premium * (E18 B47R)
 
-A Tier
+**A Tier**
 
-Any MAP1602/E27T EE1TA/BiCS6 Drive. 
+**Any MAP1602/E27T EE1TA/BiCS6 Drive.**
 
 Includes:
 
