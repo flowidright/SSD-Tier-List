@@ -34,7 +34,7 @@ Aorus 7000s/Premium * (E18 B47R)
 
 **A Tier**
 
-**Any MAP1602/E27T EE1TA/BiCS6 Drive.**
+Any MAP1602/E27T EE1TA/BiCS6 Drive.
 
 Includes:
 
