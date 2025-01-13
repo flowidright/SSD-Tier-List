@@ -1,8 +1,8 @@
-#SSD Tier List
+# SSD Tier List
 
-##V1.0 Alpha4
+## V1.0 Alpha4
 
-#####By flow
+##### By flow
 
 [Sources/Methodology](https://rentry.co/flowssd-methodology-sources) 
 
